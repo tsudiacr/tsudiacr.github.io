@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Script MT Bold";
+    src: url('../fonts/SCRIPTBL.eot');
+	src: local('SCRIPTBL'), url('../fonts/SCRIPTBL.woff') format('woff'), url('../fonts/SCRIPTBL.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Monotype Corsiva Regular";
+	src: local('Monotype Corsiva'), url('../fonts/Monotype Corsiva.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Georgia Italic";
+	src: local('georgiai'), url('../fonts/georgiai.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Franklin Gothic Demi Italic";
+	src: local('Franklin Gothic Demi Italic'), url('../fonts/Franklin Gothic Demi Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Lucida Calligraphy Italic";
+	src: local('lucida calligraphy italic'), url('../fonts/lucida calligraphy italic.ttf') format('truetype');
+}
